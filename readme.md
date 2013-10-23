@@ -1,5 +1,5 @@
 # Cranch Project
-This is the home of the Cranch Project. The Cranch Project is the Council's effort to create the nation's first [UELMA-compliant](documentation/uelma.md), open-source, state-level Code of Laws.
+This is the home of the Cranch Project. The Cranch Project is the Council's effort to create the nation's first [UELMA-compliant](documentation/UELMA.md), open-source, state-level Code of Laws.
 
 ## What does "Cranch" mean?
 
