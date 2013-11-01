@@ -7,7 +7,7 @@ You may view a copy of UELMA at the [following link](http://www.uniformlaws.org/
 
 ## What would UELMA require of the Code?
 
-1. Authentication
+1. [Authentication](authentication.md)
 2. Preservation
 3. Accessibility
 
