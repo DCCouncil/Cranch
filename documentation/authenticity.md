@@ -1,6 +1,6 @@
 # Authenticity
 
-One of the three key requirements of [UELMA](UELMA.md) is authenticity which, in this context, means the ability to reliably determine the author of a file through technological means. The purpose of authenticity in UELMA is to be able to know whether a digital file containing legal materials was or was not issued by the office resposible for publishing those materials.
+One of the three key requirements of [UELMA](UELMA.md) is authenticity which, in this context, means the ability to reliably determine the publisher of a record through technological means and to ensure that the record is unaltered from the official published record. The purpose of authenticity in UELMA is to be able to know whether a digital record containing legal materials was or was not issued by the office resposible for publishing those materials and that the record is accurate.
 
 More on what this does and does not do:
 
