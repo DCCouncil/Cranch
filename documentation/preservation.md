@@ -1,6 +1,6 @@
 # Preservation
 
-The second requirement for UELMA compliance is preservation. Specifically, section 7 of the UELMA reads as follows:
+The second requirement for UELMA compliance is preservation. Specifically, [section 7 of the UELMA](/primary_materials/uelma_act.md/#sec7) reads as follows:
 
 ```
 SECTION 7. PRESERVATION AND SECURITY OF LEGAL MATERIAL IN OFFICIAL ELECTRONIC RECORD. 
